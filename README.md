@@ -21,6 +21,7 @@ La fenêtre suivante apparaît :
 * Dans le bas de l’écran principal de Jamulus, cliquer sur le bouton Settings.
 
 La fenêtre suivante apparaît :
+
 ![jamulus](JamulusSettings.png)
 
 Dans le coin supérieur gauche, le champ ‘Device’ doit contenir ‘ASIO4ALL v2’
@@ -57,6 +58,10 @@ Dans la partie gauche de l’écran, sous ‘WDM Device List’,
 * Relancer Jamulus
 * Cliquer sur le bouton Connect
 * Indiquer l’adresse du serveur Jamulus Corojam 217.15.232.29
+
+
+
+
 
 
 
