@@ -1,5 +1,4 @@
 # jean.gigot-skynet.be
-Documentation for Jamulus
 # Installation de Jamulus sous Windows 10
 
 ## Installation de Jamulus
@@ -22,7 +21,6 @@ La fenêtre suivante apparaît :
 * Dans le bas de l’écran principal de Jamulus, cliquer sur le bouton Settings.
 
 La fenêtre suivante apparaît :
-
 ![jamulus](JamulusSettings.png)
 
 Dans le coin supérieur gauche, le champ ‘Device’ doit contenir ‘ASIO4ALL v2’
