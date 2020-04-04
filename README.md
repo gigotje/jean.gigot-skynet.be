@@ -15,10 +15,12 @@ Documentation for Jamulus
 
 ## Configuration de Jamulus
 * Lancer l’application Jamulus
+
 La fenêtre suivante apparaît :
 ![jamulus](JamulusMainWindow.png)
 
 * Dans le bas de l’écran principal de Jamulus, cliquer sur le bouton Settings.
+
 La fenêtre suivante apparaît :
 
 ![jamulus](JamulusSettings.png)
@@ -27,6 +29,7 @@ Dans le coin supérieur gauche, le champ ‘Device’ doit contenir ‘ASIO4ALL 
 
 ## Configuration du son sous Windows
 * Dans les paramètres de Windows, sélectionner l’option ’Son’.
+
 La fenêtre suivante apparaît :
 
 ![jamulus](WindowsSound.png)
@@ -37,6 +40,7 @@ La fenêtre suivante apparaît :
 
 ## Configuration ASIO
 * Dans le coin inférieur gauche de l’écran Settings, cliquer sur le bouton ASIO Setup.
+
 La fenêtre suivante apparaît, lorsque la clef plate située en bas à droite et le petit signe ’+’ situé à gauche ont été cliqués : 
 
 ![jamulus](ASIO4ALL.png) 
