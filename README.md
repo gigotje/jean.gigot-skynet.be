@@ -1,10 +1,9 @@
 # jean.gigot-skynet.be
 Documentation for Jamulus
-
 # Installation de Jamulus sous Windows 10
 
 ## Installation de Jamulus
-* Télécharger le fichier Jamulus le plus récent (au 03/04/2020 Jamulus-3.4.5-installer.exe)
+* Télécharger le fichier Jamulus pour Windows le plus récent (au 03/04/2020 Jamulus-3.4.5-installer.exe)
 * Lancer l’exécution du fichier Jamulus-3.4.5-installer.exe
 * Effectuer l’installation en dépit des messages de sécurité relatifs aux fichiers téléchargés de l’internet
 
@@ -19,15 +18,17 @@ Documentation for Jamulus
 La fenêtre suivante apparaît :
 ![jamulus](JamulusMainWindow.png)
 
-* Dans le bas de l’écran principal de Jamulus, cliquer sur le bouton Settings
+* Dans le bas de l’écran principal de Jamulus, cliquer sur le bouton Settings.
 La fenêtre suivante apparaît :
+
 ![jamulus](JamulusSettings.png)
 
 Dans le coin supérieur gauche, le champ ‘Device’ doit contenir ‘ASIO4ALL v2’
 
 ## Configuration du son sous Windows
-* Dans les paramètres de Windows, sélectionner l’option ’Son’
+* Dans les paramètres de Windows, sélectionner l’option ’Son’.
 La fenêtre suivante apparaît :
+
 ![jamulus](WindowsSound.png)
 
 * Vérifier l’activation du périphérique de sortie (par exemple Casque ou Haut-parleurs (Realtek High Definition …). Attention, le choix des haut-parleurs n’est permis que si ceux-ci sont rendus inactifs lors du raccordement du casque).
@@ -35,8 +36,9 @@ La fenêtre suivante apparaît :
 * Vérifier l’activation du périphérique d’entrée. Augmenter suffisamment le volume du microphone.
 
 ## Configuration ASIO
-* Dans le coin inférieur gauche de l’écran Settings, cliquer sur le bouton ASIO Setup
-La fenêtre suivante apparaît, lorsque le petit signe ’+’ situé à gauche a été cliqué : 
+* Dans le coin inférieur gauche de l’écran Settings, cliquer sur le bouton ASIO Setup.
+La fenêtre suivante apparaît, lorsque la clef plate située en bas à droite et le petit signe ’+’ situé à gauche ont été cliqués : 
+
 ![jamulus](ASIO4ALL.png) 
 
 Dans la partie gauche de l’écran, sous ‘WDM Device List’, 
@@ -53,4 +55,8 @@ Dans la partie gauche de l’écran, sous ‘WDM Device List’,
 * Relancer Jamulus
 * Cliquer sur le bouton Connect
 * Indiquer l’adresse du serveur Jamulus Corojam 217.15.232.29
+
+
+
+
 
