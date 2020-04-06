@@ -1,4 +1,3 @@
-# jean.gigot-skynet.be
 # Installation de Jamulus sous Windows 10
 
 ## Installation de Jamulus
@@ -40,7 +39,9 @@ La fenêtre suivante apparaît :
 ## Configuration ASIO
 * Dans le coin inférieur gauche de l’écran Settings, cliquer sur le bouton ASIO Setup.
 
-La fenêtre suivante apparaît, lorsque la clef plate située en bas à droite et le petit signe ’+’ situé à gauche ont été cliqués : 
+La fenêtre suivante apparaît, lorsque la clef plate située en bas à droite et le petit signe ’+’ situé à gauche ont été cliqués. 
+
+Cette image est l’exemple d’une implémentation particulière sous Windows 10. En effet, le nombre et la nature des périphériques d’entrée et de sortie peuvent varier d’une marque d’ordinateur à l’autre (présence d’une entrée line-in séparée, connexion combinant casque et micro, …). A cette liste de périphériques, peuvent s’ajouter ceux correspondant à des dispositifs tels que microphone USB, carte son, …
 
 ![jamulus](ASIO4ALL.png) 
 
@@ -48,7 +49,7 @@ Dans la partie gauche de l’écran, sous ‘WDM Device List’,
 * Sélectionner un dispositif de sortie, en l’occurence celle correspondant à la prise casque de l’ordinateur
 * Sélectionner un dispositif d’entrée, par exemple le microphone de l’ordinateur
 
-* Dans la partie droite de l’écran, cocher la case ‘Always Resample 44.1kHz <-> 48kHz’. Si ceci n’est pas fait, Jamulus risque de se bloquer en indiquant qu’il doit fonctionner avec une fréquence d’échantillonnage de 48000Hz.
+* Dans la partie droite de l’écran, cocher la case ‘Always Resample 44.1kHz <-> 48kHz’. Si ceci n’est pas fait, Jamulus peut se bloquer, indiquant qu’il doit fonctionner avec une fréquence d’échantillonnage de 48000Hz.
 
 **Attention ! Il ne faut sélectionner qu’un seul périphérique d’entrée et un seul périphérique de sortie et il faut sélectionner les bons ! En effet, la sélection d’un périphérique peut inhiber le fonctionnement d’un autre !!!**
 
@@ -58,6 +59,8 @@ Dans la partie gauche de l’écran, sous ‘WDM Device List’,
 * Relancer Jamulus
 * Cliquer sur le bouton Connect
 * Indiquer l’adresse du serveur Jamulus Corojam 217.15.232.29
+
+
 
 
 
