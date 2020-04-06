@@ -46,7 +46,7 @@ Cette image est l’exemple d’une implémentation **particulière** sous Windo
 ![jamulus](ASIO4ALL.png) 
 
 Dans la partie gauche de l’écran, sous ‘WDM Device List’, 
-* Sélectionner un dispositif de sortie, en l’occurence celle correspondant à la prise casque de l’ordinateur
+* Sélectionner un dispositif de sortie, en l’occurence celui correspondant à la prise casque de l’ordinateur
 * Sélectionner un dispositif d’entrée, par exemple le microphone de l’ordinateur
 
 * Dans la partie droite de l’écran, cocher la case ‘Always Resample 44.1kHz <-> 48kHz’. Si ceci n’est pas fait, Jamulus peut se bloquer, indiquant qu’il doit fonctionner avec une fréquence d’échantillonnage de 48000Hz.
@@ -59,6 +59,7 @@ Dans la partie gauche de l’écran, sous ‘WDM Device List’,
 * Relancer Jamulus
 * Cliquer sur le bouton Connect
 * Indiquer l’adresse du serveur Jamulus Corojam 217.15.232.29
+
 
 
 
